@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Khamonline.iml" filepath="$PROJECT_DIR$/.idea/Khamonline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Khamonline/mblog.iml" filepath="$PROJECT_DIR$/Khamonline/mblog.iml" />
+    </modules>
+  </component>
+</project>
